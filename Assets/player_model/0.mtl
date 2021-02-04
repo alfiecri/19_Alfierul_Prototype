@@ -1,0 +1,184 @@
+# Blender MTL File: 'ModelRenderLighting2.blend'
+# Material Count: 13
+
+newmtl 24_boot-tall-bmn-archetype_1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.423909 0.431295 0.588845
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Republic Trooper (Male),Star Wars The Old Republic\boot_tall_heavy_ge_a03reptrooper02_u_d.dds
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\boot_tall_heavy_ge_a03reptrooper02_u_n.dds
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\boot_tall_heavy_ge_a03reptrooper02_u_s.dds
+map_d D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\boot_tall_heavy_ge_a03reptrooper02_u_d.dds
+
+newmtl 24_boot-tall-bmn-heavy-tr-a02-shin_1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.655234 0.574481 0.698136
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Republic Trooper (Male),Star Wars The Old Republic\boot_tall_heavy_ge_a03reptrooper02_u_d.dds
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\boot_tall_heavy_ge_a03reptrooper02_u_n.dds
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\boot_tall_heavy_ge_a03reptrooper02_u_s.dds
+map_d D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\boot_tall_heavy_ge_a03reptrooper02_u_d.dds
+
+newmtl 24_chest-tight-bmn-archetype_1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.671043 0.609849 0.623792
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Republic Trooper (Male),Star Wars The Old Republic\chest_tight_heavy_ge_a03reptrooper02_u_d.dds
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\chest_tight_heavy_ge_a03reptrooper02_m_n.dds
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\chest_tight_heavy_ge_a03reptrooper02_u_s.dds
+map_d D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\chest_tight_heavy_ge_a03reptrooper02_u_d.dds
+
+newmtl 24_chest-tight-bmn-heavy-tr-a02-back_1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.528473 0.588491 0.487290
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Republic Trooper (Male),Star Wars The Old Republic\chest_tight_heavy_ge_a03reptrooper02_u_d.dds
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\chest_tight_heavy_ge_a03reptrooper02_m_n.dds
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\chest_tight_heavy_ge_a03reptrooper02_u_s.dds
+map_d D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\chest_tight_heavy_ge_a03reptrooper02_u_d.dds
+
+newmtl 24_chest-tight-bmn-heavy-tr-a02-plate_1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.458128 0.500379 0.716555
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Republic Trooper (Male),Star Wars The Old Republic\chest_tight_heavy_ge_a03reptrooper02_u_d.dds
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\chest_tight_heavy_ge_a03reptrooper02_m_n.dds
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\chest_tight_heavy_ge_a03reptrooper02_u_s.dds
+map_d D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\chest_tight_heavy_ge_a03reptrooper02_u_d.dds
+
+newmtl 24_chest-tight-bmn-heavy-tr-a02-shld_1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.774594 0.599555 0.488890
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Republic Trooper (Male),Star Wars The Old Republic\chest_tight_heavy_ge_a03reptrooper02_u_d.dds
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\chest_tight_heavy_ge_a03reptrooper02_m_n.dds
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\chest_tight_heavy_ge_a03reptrooper02_u_s.dds
+map_d D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\chest_tight_heavy_ge_a03reptrooper02_u_d.dds
+
+newmtl 24_face-trhelmet02-bmn-archetype_1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.636770 0.705569 0.652788
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Republic Trooper (Male),Star Wars The Old Republic\face_gehelmet02_heavy_ge_a03reptrooper02_u_d.dds
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\face_gehelmet02_heavy_ge_a03reptrooper02_u_n.dds
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\face_gehelmet02_heavy_ge_a03reptrooper02_u_s.dds
+map_d D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\face_gehelmet02_heavy_ge_a03reptrooper02_u_d.dds
+
+newmtl 24_face-trhelmet02-bmn-heavy-tr-a02-back_1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.545947 0.599122 0.742736
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Republic Trooper (Male),Star Wars The Old Republic\face_gehelmet02_heavy_ge_a03reptrooper02_u_d.dds
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\face_gehelmet02_heavy_ge_a03reptrooper02_u_n.dds
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\face_gehelmet02_heavy_ge_a03reptrooper02_u_s.dds
+map_d D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\face_gehelmet02_heavy_ge_a03reptrooper02_u_d.dds
+
+newmtl 24_hand-glove-bmn-archetype_1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.660043 0.724557 0.511306
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Republic Trooper (Male),Star Wars The Old Republic\hand_glove_heavy_ge_a03reptrooper02_u_d.dds
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\hand_glove_heavy_ge_a03reptrooper02_u_n.dds
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\hand_glove_heavy_ge_a03reptrooper02_u_s.dds
+map_d D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\hand_glove_heavy_ge_a03reptrooper02_u_d.dds
+
+newmtl 24_hand-glove-bmn-heavy-tr-a02-bracer_1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.749230 0.697037 0.665536
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Republic Trooper (Male),Star Wars The Old Republic\hand_glove_heavy_ge_a03reptrooper02_u_d.dds
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\hand_glove_heavy_ge_a03reptrooper02_u_n.dds
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\hand_glove_heavy_ge_a03reptrooper02_u_s.dds
+map_d D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\hand_glove_heavy_ge_a03reptrooper02_u_d.dds
+
+newmtl 24_leg-armor02-bmn-archetype_1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.448833 0.764278 0.628256
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Republic Trooper (Male),Star Wars The Old Republic\leg_armor02_heavy_ge_a03reptrooper02_u_v01_d.dds
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\leg_armor02_heavy_ge_a03reptrooper02_m_v01_n.dds
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\leg_armor02_heavy_ge_a03reptrooper02_u_v01_s.dds
+map_d D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\leg_armor02_heavy_ge_a03reptrooper02_u_v01_d.dds
+
+newmtl 24_waist-belt-bmn-archetype_1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.588819 0.637253 0.799881
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Republic Trooper (Male),Star Wars The Old Republic\waist_belt_heavy_ge_a03reptrooper02_u_d.dds
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\waist_belt_heavy_ge_a03reptrooper02_u_n.dds
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\waist_belt_heavy_ge_a03reptrooper02_u_s.dds
+map_d D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\waist_belt_heavy_ge_a03reptrooper02_u_d.dds
+
+newmtl 24_waist-belt-bmn-heavy-tr-a02-front_1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.483484 0.593449 0.605439
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox\Shared Files\XPS\Republic Trooper (Male),Star Wars The Old Republic\waist_belt_heavy_ge_a03reptrooper02_u_d.dds
+map_Bump D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\waist_belt_heavy_ge_a03reptrooper02_u_n.dds
+map_Ks D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\waist_belt_heavy_ge_a03reptrooper02_u_s.dds
+map_d D:\\Dropbox\\Shared Files\\XPS\\Republic Trooper (Male),Star Wars The Old Republic\\waist_belt_heavy_ge_a03reptrooper02_u_d.dds
