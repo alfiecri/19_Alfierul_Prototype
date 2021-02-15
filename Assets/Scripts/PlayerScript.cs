@@ -5,12 +5,10 @@ using UnityEngine;
 public class PlayerScript : MonoBehaviour
 {
     float walkSpeed = 3;
-    float runSpeed = 7.5f;
-    float jumpSpeed = 8;
-
-    public bool isOnGround = true;
+    float runSpeed = 12;
 
     public Rigidbody playerRb;
+    public Animator playerAnim;
 
     // Start is called before the first frame update
     void Start()
@@ -31,12 +29,15 @@ public class PlayerScript : MonoBehaviour
 
             if (!Input.GetKey(KeyCode.LeftShift))
             {
+                playerAnim.SetBool("isWalk", true);
                 transform.Translate(Vector3.forward * Time.deltaTime * walkSpeed);
             }
 
             // Running
             if (Input.GetKey(KeyCode.LeftShift))
             {
+                playerAnim.SetBool("isRun", true);
+                playerAnim.SetBool("isWalk", false);
                 transform.Translate(Vector3.forward * Time.deltaTime * runSpeed);
             }
         }
@@ -49,12 +50,14 @@ public class PlayerScript : MonoBehaviour
 
             if (!Input.GetKey(KeyCode.LeftShift))
             {
+                playerAnim.SetBool("isWalk", true);
                 transform.Translate(Vector3.forward * Time.deltaTime * walkSpeed);
             }
 
             // Running
             if (Input.GetKey(KeyCode.LeftShift))
             {
+                playerAnim.SetBool("isRun", true);
                 transform.Translate(Vector3.forward * Time.deltaTime * runSpeed);
             }
         }
@@ -67,12 +70,14 @@ public class PlayerScript : MonoBehaviour
 
             if (!Input.GetKey(KeyCode.LeftShift))
             {
+                playerAnim.SetBool("isWalk", true);
                 transform.Translate(Vector3.forward * Time.deltaTime * walkSpeed);
             }
 
             // Running
             if (Input.GetKey(KeyCode.LeftShift))
             {
+                playerAnim.SetBool("isRun", true);
                 transform.Translate(Vector3.forward * Time.deltaTime * runSpeed);
             }
         }
@@ -85,30 +90,27 @@ public class PlayerScript : MonoBehaviour
 
             if (!Input.GetKey(KeyCode.LeftShift))
             {
+                playerAnim.SetBool("isWalk", true);
                 transform.Translate(Vector3.forward * Time.deltaTime * walkSpeed);
             }
 
             // Running
             if (Input.GetKey(KeyCode.LeftShift))
             {
+                playerAnim.SetBool("isRun", true);
                 transform.Translate(Vector3.forward * Time.deltaTime * runSpeed);
             }
         }
 
-        // Jump
-
-        if (Input.GetKeyDown(KeyCode.Space) && isOnGround == true)
+        // Stop Walking/Running
+        if (Input.GetKeyUp(KeyCode.W) || Input.GetKeyUp(KeyCode.A) || Input.GetKeyUp(KeyCode.S) || Input.GetKeyUp(KeyCode.D))
         {
-            playerRb.AddForce(Vector3.up * jumpSpeed, ForceMode.Impulse);
-            isOnGround = false;
+            playerAnim.SetBool("isWalk", false);
         }
-    }
 
-    public void OnCollisionEnter(Collision collision)
-    {
-        if (collision.gameObject.CompareTag("Ground"))
+        if (Input.GetKeyUp(KeyCode.LeftShift))
         {
-            isOnGround = true;
-        }
+            playerAnim.SetBool("isRun", false);
+        } 
     }
 }
